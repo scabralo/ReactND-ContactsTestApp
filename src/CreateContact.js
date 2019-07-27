@@ -11,7 +11,7 @@ class CreateContact extends React.Component {
           to='/' >
             Close
         </Link>
-        <form>
+        <form className='create-contact-form'>
           <ImageInput 
             className='create-contact-avatar-input'
             name='avatarURL'
