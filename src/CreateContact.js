@@ -1,4 +1,6 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
+import ImageInput from './ImageInput';
 
 class CreateContact extends React.Component {
   render() {
